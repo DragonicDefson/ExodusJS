@@ -40,6 +40,6 @@ Add this to your HTML file:
   
 * Exodus preview
 
-![Exodus](https://github.com/DragonicDefson/Chris-Review/blob/main/image.jpg?raw=true)
+![Exodus](https://github.com/DragonicDefson/ExodusJS/blob/main/image.jpg?raw=true)
   
  
