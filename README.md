@@ -24,7 +24,7 @@ Add this to your HTML file:
 ```html
 <html>
   <head>
-    <script src="<path tho exodus.js>"></script>
+    <script src="<exodus.js path>"></script>
   </head>
   <body>
     <div class="margin-top-20px margin-right-20px padding-top-10px padding-right-10px"></div>
